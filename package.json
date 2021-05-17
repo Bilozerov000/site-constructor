@@ -1,0 +1,19 @@
+{
+  "name": "js-constructor",
+  "version": "1.0.0",
+  "description": "site constructor on pureJS",
+  "main": "src/index.js",
+  "scripts": {
+    "dev": "parcel ./src/index.html -p 4200 --open"
+  },
+  "keywords": [
+    "pureJS",
+    "VanillaJS",
+    "Javascript"
+  ],
+  "author": "Alexei Belozerov <alexey.belozerov000@gmail.com>",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel-bundler": "^1.12.5"
+  }
+}
